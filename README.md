@@ -16,5 +16,5 @@ Shield Insurance Project
 ## Links
 
 Linkdin Post Link -- https://www.linkedin.com/feed/update/urn:li:activity:7227320698917056513/   </br>
-Dashboard Link --  https://lnkd.in/dgKpSYp5  </br>
+Dashboard Link --  [https://lnkd.in/dgKpSYp](https://app.powerbi.com/view?r=eyJrIjoiN2RmNWM4NDktMzk2OS00YTJjLWE1YzUtNmE4YzVhNzQ3YTkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  </br>
 Video Presentation link --  https://lnkd.in/deE4-NWM
